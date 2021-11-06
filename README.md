@@ -14,8 +14,7 @@ I'm Elena Sacramento, I consider myself a very friendly person, who loves to wor
 
 ## We can meet at...
 <div>
-  <a href = "elenasacramento80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D8443A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="www.linkedin.com/in/elenasacramento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elenasacramento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://github.com/elenamsd"><img src="https://img.shields.io/badge/-GitHub-090A0C?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>  
 
@@ -41,7 +40,7 @@ I'm Elena Sacramento, I consider myself a very friendly person, who loves to wor
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-EB4D28?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vim-019331?style=for-the-badge&logo=vim&logoColor=white">
+  <img src="https://img.shields.io/badge/-c++-1A579A?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
 
