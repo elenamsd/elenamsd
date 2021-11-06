@@ -1,4 +1,4 @@
-# Hello World! <img src="assets/world.gif" width="70px" style="transform: translateY(7px);">
+# Hello World! <img src="assets/world2.gif" width="50px" style="transform: translateY(7px);">
 
 I'm Elena Sacramento, I consider myself a very friendly person, who loves to work in a team and who loves to challenge herself. 
 - 👩‍💻 I love web development, especially the frontend part, but I have no objection to try the backend part as well. 
@@ -24,7 +24,7 @@ I'm Elena Sacramento, I consider myself a very friendly person, who loves to wor
   <img width="50%" style="margin:5px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenamsd&layout=compact&langs_count=12&theme=swift&border_radius=10"/>   
 </div>
 
-## These are some technologies I have worked with <img src="assets/wrench.gif" width="30px" style="transform: translateY(7px) rotate(-100deg);">
+## These are some technologies I have worked with:  
 
 <div>
   <img src="https://img.shields.io/badge/-Html5-F06428?style=for-the-badge&logo=html5&logoColor=white">
