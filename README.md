@@ -3,7 +3,7 @@
 I'm Elena Sacramento, I consider myself a very friendly person, who loves to work in a team and who loves to challenge herself. 
 - 👩‍💻 I love web development, especially the frontend part, but I have no objection to try the backend part as well. 
 - 🎮 I also like videogame development and virtual reality.
-- 💼 I'm currently working at [EVM]()
+- 💼 I'm currently working at [LeanMind](https://leanmind.es/es/)
 - 😊Pronouns: She/Her
 
 <div>
@@ -31,6 +31,7 @@ I'm Elena Sacramento, I consider myself a very friendly person, who loves to wor
   <img src="https://img.shields.io/badge/-Javascript-F7DB00?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-Vue-41B883?style=for-the-badge&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-React-31D5F4?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-F7DB00?style=for-the-badge&logo=python&logoColor=black">
   <img src="https://img.shields.io/badge/-Laravel-F74D4D?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/-Node-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Go-00ACD7?style=for-the-badge&logo=go&logoColor=white">
@@ -41,6 +42,7 @@ I'm Elena Sacramento, I consider myself a very friendly person, who loves to wor
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/-c++-1A579A?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  
 </div>
 
 
